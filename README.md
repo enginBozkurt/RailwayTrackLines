@@ -32,3 +32,9 @@ I followed three approaches to implement the solution:
 
 ## Final notes
 **Draw_Rails_Video.py**   script draws detected railway tracks into the video.
+
+## Detection Results on video
+
+![video1](https://user-images.githubusercontent.com/30608533/72059125-78dd7b00-32e2-11ea-9706-230731fa62c0.jpg)
+
+![video2](https://user-images.githubusercontent.com/30608533/72059145-83981000-32e2-11ea-8254-c4700c6b6cfe.jpg)
